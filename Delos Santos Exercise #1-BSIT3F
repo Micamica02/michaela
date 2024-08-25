@@ -96,7 +96,7 @@
              </div>
         </div>
         <div class="team-member 4 ">
-            <img src="member3.jpg" alt="Team Member 3">
+            <img src="member4.jpg" alt="Team Member 4">
             <div>
                 <h2>Adrian</h2>
                 <h3>Member</h3>
@@ -104,13 +104,13 @@
            </div>
         </div>
         <div class="team-member 5 ">
-            <img src="member3.jpg" alt="Team Member 3">
+            <img src="member5.jpg" alt="Team Member 5">
             <div>
                 <h2>Brylle</h2>
                 <h3>leader </h3>
                 <p>hi, I'm Brylle 3rd year student of PLMUN Bachelor of Science in Information Technology student,
-          </div>
         </div>
+     </div>
     </div>
 </body>
 </html>
